@@ -18,5 +18,17 @@
   "license": "BSD-2-Clause",
   "bugs": {
     "url": "https://github.com/rsdoiel/maps-experiment/issues"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-uglify": "~0.2.2",
+    "grunt-contrib-csslint": "~0.1.2",
+    "grunt-jslint": "~1.0.0",
+    "grunt-csscss": "~0.6.0",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-copy": "~0.4.1",
+    "grunt-contrib-cssmin": "~0.6.1",
+    "grunt-markdown": "~0.4.0",
+    "grunt-contrib-yuidoc": "~0.4.0"
   }
 }
