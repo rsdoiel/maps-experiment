@@ -1,0 +1,22 @@
+{
+  "name": "map-experiment",
+  "version": "0.0.0",
+  "description": "A brief experiments in Maps/Geo client APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:rsdoiel/maps-experiment.git"
+  },
+  "keywords": [
+    "demo",
+    "experiments"
+  ],
+  "author": "R. S. Doiel, <rsdoiel@gmail.com>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/rsdoiel/maps-experiment/issues"
+  }
+}
